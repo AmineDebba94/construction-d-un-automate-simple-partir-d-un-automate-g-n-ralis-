@@ -1,0 +1,1 @@
+# construction-d-un-automate-simple-partir-d-un-automate-g-n-ralis-
